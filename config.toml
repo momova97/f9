@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://6253b17845ef347fa04217a4--frosty-dijkstra-b5d43d.netlify.app/"
+baseURL = "https://www.mh-movahedi.com"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination

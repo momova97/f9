@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://mh-movahedi.com"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination

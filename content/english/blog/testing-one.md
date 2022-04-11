@@ -1,7 +1,6 @@
 +++
 date = 2022-04-11T04:00:00Z
 description = "sixth wave"
-draft = true
 image = "/images/test1.jpg"
 tags = ["Testing"]
 title = "testing One"

@@ -1,12 +1,12 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Mohammad Hossein Movahedi"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Mohammad hossein"
+last_name : "Movahedi"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
+- "Data Analyst"
 - "Graphic Designer"
 - "Database Manager"
 
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "HI Yekta"
   link : "#contact"
 
 

@@ -6,7 +6,7 @@ method: "POST"
 name: "Name"
 email: "Email"
 message: "Message"
-submit: "https://formspree.io/f/moqrkeop"
+submit: "Submit"
 
 # custom style
 custom_class: "" 

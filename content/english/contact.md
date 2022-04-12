@@ -6,23 +6,8 @@ method: "POST"
 name: "Name"
 email: "Email"
 message: "Message"
-submit: "Submit"
+submit: "https://formspree.io/f/moqrkeop"
 
-<form
-  action="https://formspree.io/f/moqrkeop"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
 # custom style
 custom_class: "" 
 custom_attributes: "" 

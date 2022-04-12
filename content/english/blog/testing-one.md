@@ -1,10 +1,10 @@
 ---
-date = 2022-04-11T04:00:00Z
-description = "sixth wave"
-image = "/images/test1.jpg"
-tags = ["Testing"]
-title = "testing One"
-
+title: "testing One"
+date: 2022-04-11T04:00:00Z
+image: "/images/test1.jpg"
+tags: ["design","web"]
+description: "sixth wave"
+draft: false
 ---
 Ontario is expanding access to COVID-19 antiviral treatments for high-risk people as officials "strongly recommend" wearing masks in all indoor settings.
 

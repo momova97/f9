@@ -1,14 +1,15 @@
 ---
 title : "I'm Mohammad Hossein Movahedi"
 # full screen navigation
-first_name : "Mohammad hossein"
+first_name : "Mohammad Hossein"
 last_name : "Movahedi"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
 - "Data Analyst"
-- "Graphic Designer"
-- "Database Manager"
+- "AI Specialist"
+- "Project Manager"
+- "Data Scientist"
 
 # slider background image loop
 slider_images:
@@ -19,7 +20,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HI Yekta"
+  label : "Contact Me"
   link : "#contact"
 
 

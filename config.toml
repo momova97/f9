@@ -67,7 +67,7 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
+description = "Config metadata description"
 author = "Mohammad Movahedi"
 
 # Preloader

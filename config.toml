@@ -63,8 +63,8 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 #################### default parameters ################################
 [params]
 favicon = "images/mlogo.png"
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_light = "images/namelogo.png"
+logo_dark = "images/namelogodark.png"
 logo_width = "150px"
 # Meta data
 description = "Config metadata description"

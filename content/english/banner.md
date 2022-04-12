@@ -3,7 +3,7 @@ title : "I'm Mohammad Hossein Movahedi"
 # full screen navigation
 first_name : "Mohammad Hossein"
 last_name : "Movahedi"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/full-navbg.jpg"
 # animated text loop
 occupations:
 - "Data Analyst"
@@ -13,9 +13,9 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/slider1.jpg"
+- "images/slider/slider2.jpg"
+- "images/slider/slider3.jpg"
 
 # button
 button:

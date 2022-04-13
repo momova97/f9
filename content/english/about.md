@@ -4,8 +4,8 @@ image : "images/backgrounds/portrait1.jpg"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
-  link : "#"
+  label : "DOWNLOAD MY RESUME"
+  link : "resume/Resume.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -13,22 +13,28 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Digital Marketing Analyst"
+      company : "Space Age | IIDM"
+      duration : "2022-Onging"
+      content : "Digital marketing is an inseparable part of the future. I use different tools like Canva, Hero post, and Skills like market research, etc., to create and deliver a marketing strategy. "
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Data Scientist"
+      company : "Northeastern University"
+      duration : "2022-Ongoing"
+      content : "My lifetime dream is to build an AI of my own. And I came to Canada to pursue my dream to become a data scientist who can create a useful AI."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "IT and Customer Support"
+      company : "Nabz Va Darman Co"
+      duration : "2019-2021"
+      content : "The backbone of any modern company is the IT department. And I used to work in IT and Customer support for a renowned pharmaceutical company in Iran. I learned how to create and maintain information technology systems and services"
+
+    # experience item loop
+    - name : "Projecy Manager"
+      company : "Adack construction consulting company"
+      duration : "2015-2017"
+      content : "I believe the best way to learn something is to practice it. That's why I spent about two years learning and mastering the most crucial business skill, project management."
 
 ############################### Skill #################################
 skill:
@@ -36,20 +42,28 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "Data Science"
+      percentage : "20%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Data Analytics"
       percentage : "85%"
       
     # skill item loop
     - name : "Database Management"
-      percentage : "90%"
+      percentage : "70%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "Information Technology"
+      percentage : "90%"
+
+    # skill item loop
+    - name : "Digital Marketing"
+      percentage : "20%"
+    
+    # skill item loop
+    - name : "Project Management"
+      percentage : "80%"
 
 
 # custom style
@@ -58,4 +72,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It's Mohammad. I see areas of Improvement wherever I look. I spend most of my time discovering how to enhance things. I'm passionate about solving abstract issues and developing creative ways to crack them.<br> I love algorithms. I want to understand them, improve them and deploy them. <br> So if you are dealing with a complex problem and need a creative person to help you figure it out, I'm your guy. Don't hesitate to contact me.........😊

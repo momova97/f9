@@ -1,15 +1,15 @@
 ---
-title : "I'm Mohammad Hossein Movahedi"
+title : "I'm Mohammad Movahedi"
 # full screen navigation
 first_name : "Mohammad Hossein"
 last_name : "Movahedi"
 bg_image : "images/backgrounds/full-navbg.jpg"
 # animated text loop
 occupations:
-- "Data Analyst"
-- "AI Specialist"
-- "Project Manager"
+- "Digital Marketing Analyst"
 - "Data Scientist"
+- "IT and Customer Support"
+- "Project Manager"
 
 # slider background image loop
 slider_images:
